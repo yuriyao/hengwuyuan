@@ -19,7 +19,7 @@ public class Starter {
 	
 	public static void init()
 	{
-		init("META-INF/log/log4j.properities");
+		init("log/log4j.properities");
 	}
 	
 	/**
